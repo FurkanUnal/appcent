@@ -1,16 +1,11 @@
 # appcent
 
-A new Flutter project.
+An Example Project for Appcent Company
 
-## Getting Started
+Screenshots:
 
-This project is a starting point for a Flutter application.
+![Screenshot_1653174062](https://user-images.githubusercontent.com/60311689/169671567-7716b757-ffe4-45c7-b25a-1f3e7a2a83d9.png)
+![Screenshot_1653174090](https://user-images.githubusercontent.com/60311689/169671574-14618b64-b80e-430d-aa01-9b76878edb19.png)
+![Screenshot_1653174103](https://user-images.githubusercontent.com/60311689/169671588-bae1a683-cc18-49a3-a5f7-37b90f7df6c6.png)
+![Screenshot_1653174140](https://user-images.githubusercontent.com/60311689/169671604-b9407834-0ff0-47b5-bd68-d0a87062452d.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
